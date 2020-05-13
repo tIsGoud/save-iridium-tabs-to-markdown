@@ -5,7 +5,7 @@ Version 1.0
 May 12, 2020
 
 Usage:
-	Run the script when Iridium Chrome is open.
+	Run the script when Iridium is open.
 
 Customization:
 	By default the new file is saved in "Documents".
